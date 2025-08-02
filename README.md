@@ -11,7 +11,7 @@ This project was built from scratch as part of my deep-dive into modern JavaScri
 
 ---
 
-## ✏️ Demo Credentials
+## Credentials
 
 For demonstration, you can log in using either of the following test accounts:
 
